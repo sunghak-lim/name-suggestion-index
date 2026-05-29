@@ -11620,9 +11620,11 @@
       "tags": {
         "brand": "롯데슈퍼",
         "brand:ko": "롯데슈퍼",
+        "brand:en": "Lotte Super",
         "brand:wikidata": "Q12594199",
         "name": "롯데슈퍼",
         "name:ko": "롯데슈퍼",
+        "name:en": "Lotte Super",
         "shop": "supermarket"
       }
     },
@@ -11632,9 +11634,11 @@
       "locationSet": {"include": ["kr"]},
       "tags": {
         "brand": "우리마트",
+        "brand:en": "Woori Mart",
         "brand:ko": "우리마트",
         "name": "우리마트",
         "name:ko": "우리마트",
+        "name:en": "Woori Mart",
         "shop": "supermarket"
       }
     },
@@ -11649,6 +11653,7 @@
         "brand:wikidata": "Q12590611",
         "name": "하나로마트",
         "name:ko": "하나로마트",
+        "name:en": "Hanaro Mart",
         "shop": "supermarket"
       }
     },
